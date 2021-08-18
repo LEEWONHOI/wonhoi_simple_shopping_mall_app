@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146581248272",
+    "project_id": "wonhoi-shoppingmall-app05",
+    "storage_bucket": "wonhoi-shoppingmall-app05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146581248272:android:6baf90ebfd92ccccea2d95",
+        "android_client_info": {
+          "package_name": "com.example.wonhoi_cleanarchitecture_shoppingmall_app05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146581248272-vlibj0o9jbeqk87oj726em04g2vkf87i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wonhoi_cleanarchitecture_shoppingmall_app05",
+            "certificate_hash": "713c7bef50d979b7dec14b3dfa60e1d71d882e52"
+          }
+        },
+        {
+          "client_id": "146581248272-d7tem5gc0d1ehr9bl6i68jj5p7up88vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBS-cMeMfOB0hRcbPhsQNt6P60-Vzx5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146581248272-d7tem5gc0d1ehr9bl6i68jj5p7up88vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

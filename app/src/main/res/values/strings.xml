@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">wonhoi_shopping_service_app</string>
+
+    <string name="empty_products_text">There are no products.</string>
+    <string name="title">title</string>
+    <string name="description">Please enter your to-do.</string>
+    <string name="delete">delete</string>
+    <string name="modify">modify</string>
+    <string name="update">update</string>
+    <string name="delete_all">delete all</string>
+    <string name="my">My</string>
+    <string name="products">Products</string>
+    <string name="google_login_required">Google login required.</string>
+    <string name="order">order</string>
+    <string name="logout">logout</string>
+</resources>
